@@ -1338,28 +1338,24 @@ o @keyframes bannar_come {
 
 #b6,
 #b66 {
-	background-image: url('b6.png');
+	background-image: url('1627486556469.jpg');
 }
 
 #b7,
 #b77 {
-	background-image: url('b7.png');
+	background-image: url('1627486508126.jpg');
 }
 
 #b8,
 #b88 {
-	background-image: url('b8.png');
+	background-image: url('1627486443166.jpg');
 }
 
 #b7,
 #b99 {
-	background-image: url('b9.png');
+	background-image: url('1627486406975.jpg');
 }
 
-#b11,
-#b11 {
-	background-image: url('1624705079756.jpg');
-}
 
 .balloons-rotate-behaviour-one {
 	-webkit-animation: balloons_rotate_one linear 10s infinite;
