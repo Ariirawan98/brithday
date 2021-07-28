@@ -1,5 +1,4 @@
 body {
-	/*background-color: #FFDAB9;	*/
 	background-color: #000;
 	-webkit-transition: background-color linear 5s;
 	-moz-transition: background-color linear 5s;
@@ -1355,6 +1354,11 @@ o @keyframes bannar_come {
 #b7,
 #b99 {
 	background-image: url('b9.png');
+}
+
+#b11,
+#b11 {
+	background-image: url('1624705079756.jpg');
 }
 
 .balloons-rotate-behaviour-one {
