@@ -1321,34 +1321,34 @@ o @keyframes bannar_come {
 	background-image: url('1627488190558.jpg');
 }
 
+#b1,
+#b11 {
+	background-image: url('a1.jpeg');
+}
+
+#b2,
+#b22 {
+	background-image: url('a2.jpeg');
+}
+
 #b3,
 #b33 {
-	background-image: url('1627488211066.jpg');
+	background-image: url('a3.jpeg');
 }
 
 #b5,
 #b55 {
-	background-image: url('1627488084564.jpg');
+	background-image: url('a4.jpeg');
 }
 
 #b6,
 #b66 {
-	background-image: url('1627486556469.jpg');
+	background-image: url('a5.jpeg');
 }
 
 #b7,
 #b77 {
-	background-image: url('1627486508126.jpg');
-}
-
-#b8,
-#b88 {
-	background-image: url('1627486443166.jpg');
-}
-
-#b9,
-#b99 {
-	background-image: url('1627486406975.jpg');
+	background-image: url('a6.jpeg');
 }
 
 
